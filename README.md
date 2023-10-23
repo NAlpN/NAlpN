@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFr_buFsJo/JWC-W-AfZNw5TaFDEMSVEA/edit)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.paradergi.com.tr%2Fayin-konusu%2F2023%2F09%2F27%2Fturkiye-haritasi-yayinlandi-toplam-325-yapay-zeka-girisimi-var&psig=AOvVaw0YAi_5sPAGZN3OuWtKhTYL&ust=1698124656139000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIitorq1i4IDFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Alperen Erdoğan</h1>
 <h3 align="center">A Electrical-Electronics Engineer and Artificial Intelligence Engineer</h3>
