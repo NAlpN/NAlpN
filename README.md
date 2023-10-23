@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/electricity-technology-blue-background-header.jpg)(https://github.com/NAlpN)
+[![MasterHead](https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/electricity-technology-blue-background-header.jpg)
 
 <h1 align="center">Hi 👋, I'm Alperen Erdoğan</h1>
 <h3 align="center">A Electrical-Electronics Engineer and Artificial Intelligence Engineer</h3>
