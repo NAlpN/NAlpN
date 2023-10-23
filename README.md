@@ -1,4 +1,4 @@
- [![MasterHead](https://www.shutterstock.com/image-photo/human-versus-artificial-intelligence-ai-design-2205639393)
+[![MasterHead](https://www.shutterstock.com/image-photo/human-versus-artificial-intelligence-ai-design-2205639393)
 
 <h1 align="center">Hi 👋, I'm Alperen Erdoğan</h1>
 <h3 align="center">A Electrical-Electronics Engineer and Artificial Intelligence Engineer</h3>
