@@ -1,5 +1,4 @@
-![MasterHead](https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/electricity-technology-blue-background-header.jpg)
-
+![MasterHead](https://github.com/NAlpN/NAlpN/blob/main/Camg%C3%B6be%C4%9Fi%20ve%20Beyaz%2C%20Modern%2C%20Yapay%20Zeka%20Teknolojileri%20Hakk%C4%B1nda%20Instagram%20Hikayesi%20(Masa%C3%BCst%C3%BC%20Duvar%20Ka%C4%9F%C4%B1d%C4%B1).png)
 <h1 align="center">Hi 👋, I'm Alperen Erdoğan</h1>
 <h3 align="center">A Electrical-Electronics Engineer and Artificial Intelligence Engineer</h3>
 
