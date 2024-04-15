@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/alp3nn" target="blank"><img src="https://img.shields.io/twitter/follow/alp3nn?logo=twitter&style=for-the-badge" alt="alp3nn" /></a> </p>
 
-- 🔭 I’m currently working on [Artificial Intelligence in Health](linkedin.com/company/saglikta-ait)
+- 🔭 I’m currently working on [Artificial Intelligence in Health](linkedin.com/company/saglikta-ait) and ATA AIT SIMURG TEAM (mechanical-avionics unit)
 
 - 📝 I regularly write articles on [https://www.bioclubs.org/post/solution-to-the-protein-folding-problem-with-artificial-intelligence-alphafold](https://www.bioclubs.org/post/solution-to-the-protein-folding-problem-with-artificial-intelligence-alphafold)
 
