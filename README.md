@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalpn&show_icons=true&locale=en" alt="nalpn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nalpn&" alt="nalpn" /></p>
+
+![snake gif](https://github.com/NAlpN/NAlpN/blob/output/github-contribution-grid-snake.gif)
