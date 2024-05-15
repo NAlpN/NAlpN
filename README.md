@@ -3,7 +3,7 @@
 
 <img style="float: right;" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/69/11/17/1000_F_569111773_vf4bnJAItFo7tZ0ce2pQ0txYQnQteTHH.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nalpn&label=Profile%20views&color=0e75b6&style=flat" alt="nalpn" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nalpn&label=Profile%20views&color=0e75b6&style=flat" alt="nalpn" /> </p>
 
 - 🔭 Ata AIT SIMURG SIHA Team [ATA AIT SIMURG SIHA TEAM](https://www.linkedin.com/company/aitsihateam/mycompany/)
 
