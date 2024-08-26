@@ -1,5 +1,5 @@
 <h1 align="center">Ben Alperen Erdoğan</h1>
-<h3 align="center">Electrical Electronics Engineering student and Artificial Intelligence Engineer.</h3>
+<h3 align="center">Electrical-Electronics Engineering student and Artificial Intelligence Engineer.</h3>
 
 <img align= "right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
