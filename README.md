@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalpn&label=Profile%20views&color=0e75b6&style=flat" alt="nalpn" /> </p>
 
-- 🔭 Ata AIT SIMURG SIHA Team [ATA AIT SIMURG SIHA TEAM](https://www.linkedin.com/company/aitsihateam/mycompany/)
+- 🔭 DeusAI Company [DEUSAI]([https://www.linkedin.com/company/aitsihateam/mycompany/](https://www.deusai.tech/index.html))
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAlpN](https://github.com/NAlpN)
 
